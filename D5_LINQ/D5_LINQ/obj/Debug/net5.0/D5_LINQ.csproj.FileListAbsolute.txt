@@ -1,0 +1,16 @@
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\D5_LINQ.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\D5_LINQ.deps.json
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\D5_LINQ.runtimeconfig.json
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\D5_LINQ.runtimeconfig.dev.json
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\D5_LINQ.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\ref\D5_LINQ.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\bin\Debug\net5.0\D5_LINQ.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.csproj.AssemblyReference.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.AssemblyInfoInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.AssemblyInfo.cs
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\ref\D5_LINQ.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D5_LINQ\D5_LINQ\obj\Debug\net5.0\D5_LINQ.genruntimeconfig.cache
