@@ -1,0 +1,7 @@
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\obj\Debug\D2_loops_lists.csproj.AssemblyReference.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\obj\Debug\D2_loops_lists.csproj.CoreCompileInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\bin\Debug\D2_loops_lists.exe.config
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\bin\Debug\D2_loops_lists.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\bin\Debug\D2_loops_lists.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\obj\Debug\D2_loops_lists.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D2_loops_lists\D2_loops_lists\obj\Debug\D2_loops_lists.pdb

@@ -1,0 +1,7 @@
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\bin\Debug\D1_Intro.exe.config
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\bin\Debug\D1_Intro.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\bin\Debug\D1_Intro.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\obj\Debug\D1_Intro.csproj.AssemblyReference.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\obj\Debug\D1_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\obj\Debug\D1_Intro.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D1_Intro\D1_Intro\obj\Debug\D1_Intro.pdb
