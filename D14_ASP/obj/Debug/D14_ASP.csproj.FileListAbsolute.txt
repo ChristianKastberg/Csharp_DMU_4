@@ -1,0 +1,2 @@
+C:\Users\Charles\OneDrive\Skrivebord\C#\D14_ASP\D14_ASP\obj\Debug\D14_ASP.csproj.AssemblyReference.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D14_ASP\D14_ASP\obj\Debug\D14_ASP.csproj.CoreCompileInputs.cache
