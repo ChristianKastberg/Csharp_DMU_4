@@ -1,0 +1,47 @@
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\Exercises.exe.config
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\Exercises.exe
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\Exercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.exe
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\DelegateExercises.dll
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\bin\Debug\DelegateExercises.pdb
+C:\user\CSharp\Lektion_02\LectureProjects\Exercises\Exercises\obj\Debug\Exercises.csproj.CopyComplete
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\bin\Debug\Exercises.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\bin\Debug\Exercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\bin\Debug\Exercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\bin\Debug\DelegateExercises.dll
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\bin\Debug\DelegateExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\obj\Debug\Exercises.csproj.CopyComplete
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\obj\Debug\Exercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExercise\Exercises\obj\Debug\Exercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\DelegateExercises.dll
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\DelegateExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csproj.CopyComplete
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 4 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.exe.config
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\DelegateExercises.dll
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\DelegateExercises.pdb
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csproj.CopyComplete
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.exe
+H:\Documents\DMU\C#\2020 forår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.exe
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\Exercises.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\DelegateExercises.dll
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\bin\Debug\DelegateExercises.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.csproj.CopyComplete
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.exe
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\DelegateExerciseLøsning\Exercises\obj\Debug\Exercises.pdb
