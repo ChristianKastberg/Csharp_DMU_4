@@ -1,0 +1,43 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Array of string</title>
+</head>
+<body>
+    <h2>For loop</h2>
+    <ul>
+        @{
+            string[] colorNames = new string[5];
+            colorNames[0] = "Yellow";
+            colorNames[1] = "Green";
+            colorNames[2] = "Red";
+            colorNames[3] = "Blue";
+            colorNames[4] = "White";
+
+            for (int i = 0; i < colorNames.Length; i++) {
+                <li>@colorNames[i]</li>
+            }
+        }
+    </ul>
+
+    <h2>Foreach loop</h2>
+    <ul>
+        @{
+
+            foreach (string color in colorNames) {
+                <li>@color</li>
+            }
+
+        }
+    </ul>
+
+
+</body>
+</html>

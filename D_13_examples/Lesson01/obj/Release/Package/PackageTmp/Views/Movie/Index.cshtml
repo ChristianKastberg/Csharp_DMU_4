@@ -1,0 +1,31 @@
+﻿@using Lesson01.Models;
+@model Movie
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>ViewData & ViewBag</h2>
+    <ul>
+        <li>@ViewData["movie2"]</li>
+        <li>@ViewData["year2"]</li>
+    </ul>
+    <ul> 
+        <li>@ViewBag.Movie</li>
+        <li>@ViewBag.Year</li>
+    </ul>
+
+    <h2>Object</h2>
+    <ul>
+        <li>@Model.Title</li>
+        <li>@Model.Year</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    @if(ViewBag.Firstname == null || ViewBag.Lastname == null) {
+        <h2>Register</h2>
+        
+        using (Html.BeginForm()) {
+            <p>
+                @Html.Label("Firstname") <br />
+                @Html.TextBox("Firstname")
+            </p>
+            <p>
+                @Html.Label("Lastname") <br />
+                @Html.TextBox("Lastname")
+            </p>
+            <input type="submit" value="Register" />
+        }
+        
+        
+    }
+    else {
+        <p>Your name:</p>
+        <p>@ViewBag.Firstname @ViewBag.Lastname </p>
+    
+    }
+
+</body>
+</html>
