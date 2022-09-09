@@ -1,0 +1,21 @@
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.exe.config
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.exe
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.pdb
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.exe
+C:\user\CSharp\Lektion_03\LectureProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.pdb
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.csprojAssemblyReference.cache
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.csproj.CoreCompileInputs.cache
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.exe
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.pdb
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.exe.config
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.exe
+C:\user\CSharp\Lektion_03\SolutionProjects\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.exe.config
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.exe
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\bin\Debug\SearchAndSortInData.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.csprojAssemblyReference.cache
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.csproj.CoreCompileInputs.cache
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.exe
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 05 LINQ\Løsninger\SearchAndSortInData\SearchAndSortInData\obj\Debug\SearchAndSortInData.pdb
