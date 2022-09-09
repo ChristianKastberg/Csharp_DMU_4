@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h3>Let's Just Pretend that these are rockbands M'kay?</h3>
+    <ul>@foreach(string rockban in ViewBag.Rockbands){
+                <li>@rockban</li>
+            }
+    
+
+    </ul>
+</body>
+</html>
