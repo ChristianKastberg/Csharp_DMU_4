@@ -1,0 +1,5 @@
+C:\Users\mmat\Documents\DMU\C#\2011-03-02 Delegates og events\BookstoreDelegate\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\mmat\Documents\DMU\C#\2011-03-02 Delegates og events\BookstoreDelegate\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\mmat\Documents\DMU\C#\2011-03-02 Delegates og events\BookstoreDelegate\BookStore\BookStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mmat\Documents\DMU\C#\2011-03-02 Delegates og events\BookstoreDelegate\BookStore\BookStore\obj\x86\Debug\BookStore.exe
+C:\Users\mmat\Documents\DMU\C#\2011-03-02 Delegates og events\BookstoreDelegate\BookStore\BookStore\obj\x86\Debug\BookStore.pdb

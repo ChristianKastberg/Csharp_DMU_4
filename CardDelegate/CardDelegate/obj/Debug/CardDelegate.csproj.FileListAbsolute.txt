@@ -1,0 +1,7 @@
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\obj\Debug\CardDelegate.csproj.CoreCompileInputs.cache
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\bin\Debug\CardDelegate.exe.config
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\bin\Debug\CardDelegate.exe
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\bin\Debug\CardDelegate.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\obj\Debug\CardDelegate.exe
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\obj\Debug\CardDelegate.pdb
+C:\Users\makn\Desktop\dmu_csharp\MK - 2021 efterår\Dag 04 Delegates og lambda expressions\CardDelegate\CardDelegate\obj\Debug\CardDelegate.csprojAssemblyReference.cache

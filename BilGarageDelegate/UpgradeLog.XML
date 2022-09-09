@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BilGarageDelegate">
+</Property><Property Name="Solution File" Value="C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate.sln">
+</Property><Property Name="User Options File" Value="C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate.suo">
+</Property><Property Name="Date" Value="15. december 2009">
+</Property><Property Name="Time" Value="11:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BilGarageDelegate.sln" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BilGarageDelegate.suo" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate.suo">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\BilGarageDelegate.csproj" Description="Project file successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate\BilGarageDelegate.csproj">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\Applikationer.cs" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate\Applikationer.cs">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\Bil.cs" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate\Bil.cs">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\BilGarageProgram.cs" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate\BilGarageProgram.cs">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\Garage.cs" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate\Garage.cs">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\Backup\BilGarageDelegate\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\BilGarageDelegate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BilGarageDelegate" Source="BilGarageDelegate\BilGarageDelegate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BilGarageDelegate.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BilGarageDelegate.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BilGarageDelegate" Source="BilGarageDelegate\BilGarageDelegate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

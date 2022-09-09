@@ -1,0 +1,10 @@
+C:\Users\ilm\Documents\Visual Studio 2008\Projects\BilGarageDelegate\BilGarageDelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ilm\Documents\Visual Studio 2008\Projects\BilGarageDelegate\BilGarageDelegate\bin\Debug\BilGarageDelegate.exe
+C:\Users\ilm\Documents\Visual Studio 2008\Projects\BilGarageDelegate\BilGarageDelegate\bin\Debug\BilGarageDelegate.pdb
+C:\Users\ilm\Documents\Visual Studio 2008\Projects\BilGarageDelegate\BilGarageDelegate\obj\Debug\BilGarageDelegate.exe
+C:\Users\ilm\Documents\Visual Studio 2008\Projects\BilGarageDelegate\BilGarageDelegate\obj\Debug\BilGarageDelegate.pdb
+C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate\obj\Debug\BilGarageDelegate.exe
+C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate\obj\Debug\BilGarageDelegate.pdb
+C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate\bin\Debug\BilGarageDelegate.exe
+C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate\bin\Debug\BilGarageDelegate.pdb
+C:\Users\ilm\Documents\Visual Studio 2010\Projects\BilGarageDelegate\BilGarageDelegate\obj\Debug\ResolveAssemblyReference.cache
