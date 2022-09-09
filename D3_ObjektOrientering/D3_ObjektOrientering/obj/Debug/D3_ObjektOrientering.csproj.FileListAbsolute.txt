@@ -1,0 +1,7 @@
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\obj\Debug\D3_ObjektOrientering.csproj.CoreCompileInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\bin\Debug\D3_ObjektOrientering.exe.config
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\bin\Debug\D3_ObjektOrientering.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\bin\Debug\D3_ObjektOrientering.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\obj\Debug\D3_ObjektOrientering.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\obj\Debug\D3_ObjektOrientering.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\D3_ObjektOrientering\obj\Debug\D3_ObjektOrientering.csproj.AssemblyReference.cache

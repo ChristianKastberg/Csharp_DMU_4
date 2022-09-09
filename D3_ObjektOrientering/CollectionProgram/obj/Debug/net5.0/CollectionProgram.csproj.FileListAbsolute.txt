@@ -1,0 +1,16 @@
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\CollectionProgram.exe
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\CollectionProgram.deps.json
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\CollectionProgram.runtimeconfig.json
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\CollectionProgram.runtimeconfig.dev.json
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\CollectionProgram.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\ref\CollectionProgram.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\bin\Debug\net5.0\CollectionProgram.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.csproj.AssemblyReference.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.AssemblyInfoInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.AssemblyInfo.cs
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.csproj.CoreCompileInputs.cache
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\ref\CollectionProgram.dll
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.pdb
+C:\Users\Charles\OneDrive\Skrivebord\C#\D3_ObjektOrientering\CollectionProgram\obj\Debug\net5.0\CollectionProgram.genruntimeconfig.cache
